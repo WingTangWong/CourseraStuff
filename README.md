@@ -1,2 +1,1 @@
-# CourseraStuff
-For completing assignments and tests in the Coursera system
+I am editing the README file. Adding some more details about the project description.
